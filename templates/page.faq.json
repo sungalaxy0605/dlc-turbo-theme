@@ -1,0 +1,157 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-faq-template",
+      "blocks": {
+        "block-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shipping and Delivery"
+          }
+        },
+        "098b5440-80ce-4bc0-912e-6213c5887208": {
+          "type": "Content",
+          "settings": {
+            "title": "When will I get my order?",
+            "subtitle": "<p>Usually, it takes 3–7 days to fulfill an order, after which it’s shipped out. The shipping time depends on your location, but can be estimated as follows:<\/p><p>\t\t\t\t\t\t<\/p><p>\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t<br\/>●  USA: 3–4 business days\t\t\t\t\t\t \t\t\t\t\t\t\t\t<br\/>●  Europe: 6–8 business days\t\t\t\t\t\t \t\t\t\t\t\t\t\t<br\/>●  Australia: 2–14 business days\t\t\t\t\t\t\t\t<br\/>●  Japan: 4–8 business days\t \t\t\t\t\t\t\t\t<br\/>●  International: 10–20 business days<\/p>"
+          }
+        },
+        "42988c1c-3f17-439a-80b3-a6b9565525bc": {
+          "type": "Content",
+          "settings": {
+            "title": "[Covid-19]​ When will I get my order?",
+            "subtitle": "<p>Our fulfillment times [for all products\/t-shirts\/phone cases\/etc.] may be longer than usual and may continue to increase until things get back to normal. We're seeing delays in our supply chain, including distributors and shipping carriers as the entire industry is grappling with challenges.<\/p>"
+          }
+        },
+        "block-2": {
+          "type": "Content",
+          "settings": {
+            "title": "What are the Shipping Options at De La Cross?",
+            "subtitle": "<p>Full, detailed shipping details can be found on our <a href=\"\/policies\/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\">Shipping Policy page<\/a>.<\/p>"
+          }
+        },
+        "35edd2a0-aa8a-4c03-92fe-c11c2b73ffe8": {
+          "type": "Content",
+          "settings": {
+            "title": "Will I be charged customs for my order?",
+            "subtitle": "<p>An additional customs and tax fee can occur on international orders. This fee is not in our control and is assessed by your local customs office. Customs policies vary widely for every country so please check with your local customs office directly to see if they apply duties and taxes to your purchases.<\/p>"
+          }
+        },
+        "block-3": {
+          "type": "Content",
+          "settings": {
+            "title": "How do I get free shipping on my order?",
+            "subtitle": "<p>We offer free shipping on orders of $110 or more.<\/p>"
+          }
+        },
+        "af14ea3e-bcab-491d-94cd-e3f451285caa": {
+          "type": "Content",
+          "settings": {
+            "title": "What happens if I entered the wrong address in my order?",
+            "subtitle": "<p>If you enter the wrong address, your item(s) will be sent back to us and you will be asked to provide us  with your correct address either by phone or email.  Your items will remain with us until we receive that information. You have 28 days to supply this information and have it reshipped at no cost.  Otherwise you will be re-charged the shipping fee. <\/p><p><\/p>"
+          }
+        },
+        "6c3d85a3-62e0-429f-bcd4-10aa5b9ea194": {
+          "type": "Content",
+          "settings": {
+            "title": "What happens if a package wasn't delivered to me, but the tracking info states that it was?",
+            "subtitle": "<p>If the package was marked as delivered by your carrier, it may be cases where the delivery was made, but the package was left in an unexpected location at your address. <\/p><p><\/p><p>Unfortunately this is out of our hands and you should reach out to your carrier and inquire if any additional details were left by the delivery person. For example: “Left under the table on the back porch.\"<\/p><p>If you are unable to locate the package, you will need to place a new manual order to have it reshipped. We're not yet able to assist with filing claims with shipping carriers but hope to do so in the future!<\/p>"
+          }
+        },
+        "block-5": {
+          "type": "heading",
+          "settings": {
+            "heading": "Orders"
+          }
+        },
+        "18617b42-af9a-4e05-a08c-35b44f1aaf5b": {
+          "type": "Content",
+          "settings": {
+            "title": "How are De La Cross products made?",
+            "subtitle": "<p>We work with a print-on-demand drop shipper. They have locations worldwide, so depending on where you are, your orders are printed and shipped from the facility that can do it most efficiently!<\/p>"
+          }
+        },
+        "block-6": {
+          "type": "Content",
+          "settings": {
+            "title": "How do I track my De La Cross order status?",
+            "subtitle": "<p>There are a few ways to track your order.  <\/p><p>You’ll receive a tracking link via email when your order ships out. If you have any questions about your tracking or shipment, drop us a line at <a href=\"mailto:support@delacross.life\" title=\"mailto:support@delacross.life\">support@delacross.life<\/a>.<\/p><p>The best way to instantly track orders is to download the <a href=\"https:\/\/shop.app\/?_branch_match_id=840377987187310297&utm_source=shopify&utm_medium=marketing\" title=\"Shopify Shop App - Shopping Assistant\">Shop<\/a> App for Android or iOS and your order <em>should<\/em> be tracked automatically. We do not make the Shop <\/p>"
+          }
+        },
+        "block-7": {
+          "type": "Content",
+          "settings": {
+            "title": "Can I cancel or change my De La Cross order?",
+            "subtitle": "<p>We do not offer exchanges at this time. With that in mind, if you are purchasing clothing, please be sure to look at our size charts to ensure you are getting the right fit and as always, double-check your order before submitting payment.<\/p><p><\/p><p>See more details about returns and refunds in our <a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\">Return Policy<\/a>.<\/p>"
+          }
+        },
+        "block-4": {
+          "type": "Content",
+          "settings": {
+            "title": "Does De La Cross offer any discounts?",
+            "subtitle": "<p>There are a few ways to receive discounts.  If you sign up to receive our newsletter and promotions, you will get 10% off of your first order.  <\/p><p>Additionally, we occasionally offer discount promo codes for sales, events, and holidays.  <\/p><p>You can qualify for free shipping on any order above $110.<\/p><p><\/p><p>Finally, as we are a small family business with big dreams, if you wish to become a partner social media marketer, you can get some discounted and\/or free swag!  Contact us a <a href=\"mailto:about.th@delacross.life\" title=\"mailto:about.th@delacross.life\">about.th@delacross.life<\/a> for more info.<\/p>"
+          }
+        },
+        "9dfe04eb-9285-465c-9c3c-2d3e6ba32504": {
+          "type": "Content",
+          "settings": {
+            "title": "I received an incorrect\/damaged product, what should I do?",
+            "subtitle": "<p>We absolutely would not want you to wear damaged goods!  <\/p><p>We’re so sorry if the product you ordered arrived damaged. To help us resolve this for you quickly, please email us at <a href=\"mailto:support@delacross.life\" title=\"mailto:support@delacross.life\">support@delacross.life<\/a> within a weeks' time with photos of the damaged product, your order number, and any other details you may have about your order. We’ll get back to you with a resolution as soon as possible! <\/p>"
+          }
+        },
+        "3cc7b2ea-604f-4d2c-9420-5f0420fa4bca": {
+          "type": "heading",
+          "settings": {
+            "heading": "Returns"
+          }
+        },
+        "block-8": {
+          "type": "Content",
+          "settings": {
+            "title": "What is the return policy at De La Cross?",
+            "subtitle": "<p>If your item was defective, damaged, or incorrect, you have 30 days after receiving your item to request a return. <\/p><p><\/p><p>If any of the above conditions apply, please contact us at <a href=\"mailto:support@delacross.life\" title=\"mailto:support@delacross.life\">support@delacross.life<\/a> and attach photos of the items in question along with a brief description of what is wrong with the item and we'll sort everything out for you. <\/p><p><\/p><p>See more details about returns and refunds in our <a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\">Return Policy<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "098b5440-80ce-4bc0-912e-6213c5887208",
+        "42988c1c-3f17-439a-80b3-a6b9565525bc",
+        "block-2",
+        "35edd2a0-aa8a-4c03-92fe-c11c2b73ffe8",
+        "block-3",
+        "af14ea3e-bcab-491d-94cd-e3f451285caa",
+        "6c3d85a3-62e0-429f-bcd4-10aa5b9ea194",
+        "block-5",
+        "18617b42-af9a-4e05-a08c-35b44f1aaf5b",
+        "block-6",
+        "block-7",
+        "block-4",
+        "9dfe04eb-9285-465c-9c3c-2d3e6ba32504",
+        "3cc7b2ea-604f-4d2c-9420-5f0420fa4bca",
+        "block-8"
+      ],
+      "settings": {
+        "wide_display": true,
+        "show_banner": true,
+        "image": "shopify:\/\/shop_images\/faq-banner.jpg",
+        "mobile_image_crop": "none",
+        "caption_content_background": "darken_bg",
+        "pretext": "",
+        "title": "FAQ",
+        "subtitle": "<p>All of the answers to your De La Cross-related questions are just a click away <\/p>",
+        "text_position": "center",
+        "text_align": "center",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
